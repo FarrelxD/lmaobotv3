@@ -1,3 +1,7 @@
+## Where The File?
+If You Want File , You Can Chat My WA: 082216555691
+
+
 ## Note
 If You Want Stickergif Work , Download ffmpeg
 
@@ -44,7 +48,12 @@ Fix Stuck on linux, install google chrome stable:
 > sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
 ## Feature
-Check In menu.json
+Sticker , Gif/no bg
+Fun Menu
+- Kerang ajaib
+- Tod
+- dll
+And more feature
 
 ## Rank 
 Premiums
